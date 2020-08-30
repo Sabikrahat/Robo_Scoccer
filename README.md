@@ -1,4 +1,4 @@
-******** Robo Scoccer********
+******** Robo Soccer********
 
 1. Arduino Uno
 2. Motor Driver
